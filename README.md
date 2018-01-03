@@ -21,8 +21,12 @@ The data used for this programe was downloaded on [Viewfinder panoramas](http://
 
 ## Instalation
 
-Unzip 
+Unzip the _terrainData.zip_ to the root of the folder. After unziping the content of Alpano_v2 should look like.
+![](https://raw.githubusercontent.com/Jmion/Alpano_v2/master/hgtFileLocation.JPG)
 
+If you are wanting to run it from the jar then have the * .hgt * files beside the jar. 
+
+Enjoy using the app.
 
 _source: https://cs108.epfl.ch/archive/17/p/00_introduction.html_
 
