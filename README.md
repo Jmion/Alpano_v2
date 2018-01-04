@@ -25,7 +25,7 @@ The data used for this programe was downloaded on [Viewfinder panoramas](http://
 ![](https://cs108.epfl.ch/archive/17/p/i/hgt-area.jpg)
 
 ## Instalation
-After having read about SRTM and the data that was collected we are now going to import the data into the prorgam. This step needs to be done manually since the files are to large to simply append to this project. The data collected about the elevation of the terrain is stored in files wiht the **.hgt** file extension.
+After having read about SRTM and the data that was collected we are now going to import the data into the prorgam. This step needs to be done manually since the files are to large to simply append to this project in Github. The data collected about the elevation of the terrain is stored in files wiht the **.hgt** file extension.
 
 * download the 2 zip files:
 
