@@ -46,5 +46,9 @@ _Here is a 40000x10000 pixel 69.5 MB picture that was generated on a intel xeon 
 _If the image bellow refuses to load you can get it at_ https://jmion.keybase.pub/Alpano%20resoucres/niesen-color1.png
 ![](https://jmion.keybase.pub/Alpano%20resoucres/niesen-color1.png)
 
+Large image should be above this.
+_Here is the panorama of the preset Alp Jura_
+![](https://jmion.keybase.pub/Alpano%20resoucres/jura.png)
+
 _source: https://cs108.epfl.ch/archive/17/p/00_introduction.html_
 
