@@ -47,8 +47,12 @@ _If the image bellow refuses to load you can get it at_ https://jmion.keybase.pu
 ![](https://jmion.keybase.pub/Alpano%20resoucres/niesen-color1.png)
 
 Large image should be above this.
-_Here is the panorama of the preset Alp Jura_
+
+Here is the panorama of the preset Alp Jura.
 ![](https://jmion.keybase.pub/Alpano%20resoucres/jura.png)
+
+Here is the panorama of Finsterrarhorn.
+![](https://jmion.keybase.pub/Alpano%20resoucres/Finsterrarhorn.png)
 
 _source: https://cs108.epfl.ch/archive/17/p/00_introduction.html_
 
