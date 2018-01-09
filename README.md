@@ -29,8 +29,8 @@ After having read about SRTM and the data that was collected we are now going to
 
 * download the 2 zip files:
 
-   [ZIP 1 of SRTM DATA](https://jmion.keybase.pub/Alpano%20resoucres/Alpano%20App.zip.001?dl=1)  
-   [ZIP 2 od SRTM DATA](https://jmion.keybase.pub/Alpano%20resoucres/Alpano%20App.zip.002?dl=1)    
+   [ZIP 1 of SRTM DATA](https://keybase.pub/jmion/Alpano%20resoucres/terrainData.zip.001)  
+   [ZIP 2 od SRTM DATA](https://keybase.pub/jmion/Alpano%20resoucres/terrainData.zip.002)    
 Unzip the _terrainData.zip_ to the root of the folder. After unziping the content of Alpano_v2 should look like.
 ![](https://raw.githubusercontent.com/Jmion/Alpano_v2/master/hgtFileLocation.JPG)
 
