@@ -54,5 +54,8 @@ Here is the panorama of the preset Alp Jura.
 Here is the panorama of Finsterrarhorn.
 ![](https://jmion.keybase.pub/Alpano%20resoucres/Finsterrarhorn.png)
 
+If Alpano generates and image like the one bellow, this indicates that the SRTM data is missing. Alpano will assume that the terrain outside of where the SRTM data is is flat and has an altitude of 0 meters above see level.
+
+
 _source: https://cs108.epfl.ch/archive/17/p/00_introduction.html_
 
