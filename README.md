@@ -1,5 +1,5 @@
 # Alpano
-_If you are simply wanting to use this app skip to the instaltion part of this guide_
+_If you are simply wanting to use this app skip to the instalation part of this guide_
 ## Introdution
 This project is the was done for a course given at the Swiss Technical Institute of Technologies in Lausanne (EPFL) for the course cs108. This course was taught by _Michel Schinz_. For more information about the course and resoucrces provided to us for this project visit https://cs108.epfl.ch/archive/17/archive.html .
 
